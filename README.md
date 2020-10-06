@@ -1,2 +1,2 @@
-# LinuxLearning
-2020-2021 linux learning records
+# Learning
+2020-2021 learning records
